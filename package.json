@@ -1,0 +1,22 @@
+{
+  "name": "charcuterialostocinos",
+  "version": "1.0.0",
+  "description": "charcuteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarrosarey/ProyectoFinal.git"
+  },
+  "keywords": [
+    "f"
+  ],
+  "author": "Edgar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgarrosarey/ProyectoFinal/issues"
+  },
+  "homepage": "https://github.com/edgarrosarey/ProyectoFinal#readme"
+}
