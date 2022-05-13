@@ -6,20 +6,16 @@
             <strong style="font-size: 30px; color:blanchedalmond;font-family:'Times New Roman', Times, serif">CharcuteriaLosTocinos</strong>
             <div class="form-group">
                 <input type="text" class="form-control"  [(ngModel)]="searchTerm" (keyup)="search($event)" placeholder="search products" >
-            
         
             </div>
         
-
-
-         
-
         </div>
-
+    
+      <i class="fas fa-search search-icon" style="width: 50px;"></i>
       
         <button routerLink="cart" class="btn btn-primary">
                         <i style="font-size: 30px; margin-left: 150px;" class="fas fa-cart-plus"></i>
-            <div style="font-size: 10px;" class="badge bg-danger">{{totalItem}}</div>
+            <div style="font-size: 9px;" class="badge bg-danger">{{totalItem}}</div>
         </button>
     </div>
 
